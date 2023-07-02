@@ -54,7 +54,7 @@ function App() {
         <img src={img} className="logo react" alt="React logo" />
       </div>
       <h1 dir="rtl" className="head-h1">
-        اختر من سرقة فوطة الجمل
+        اختر من سرق فوطة الجمل
       </h1>
       <form dir="rtl" autoComplete="off" onSubmit={handleSubmit}>
         <div className="form-name">
