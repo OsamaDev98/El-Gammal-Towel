@@ -142,6 +142,9 @@ form button {
 }
 
 @media screen and (max-width: 992px) {
+  body {
+    min-height: auto;
+  }
   .head-h1 {
     font-size: 2.2rem;
   }
